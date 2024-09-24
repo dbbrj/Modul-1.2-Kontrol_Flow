@@ -1,0 +1,30 @@
+﻿Console.WriteLine("opg 8.1");
+Console.WriteLine("A boolean is both a type and a variable of that type. ");
+Console.WriteLine("This means that the variable have have (point to) one of two values; true and false. ");
+Console.WriteLine("This is a single bit of information, but is typically allocated more space in memory. ");
+Console.WriteLine("A number of special (Boolean) operations are defined on this type. These can used to implement Boolean logic.");
+Console.WriteLine();
+Console.WriteLine("opg 8.2");
+Console.WriteLine("Boolean values ​​are produced when:");
+Console.WriteLine("1. In the code, write true or false.");
+Console.WriteLine("2. As the result of a comparison.");
+Console.WriteLine("3. As the result of a Boolean operation.");
+Console.WriteLine();
+Console.WriteLine("opg 8.3");
+double price = 599.95;
+double budget = 1000.0;
+bool requiredReading = true;
+bool shouldBuy = price < budget && requiredReading;
+Console.WriteLine("should i buy? " + shouldBuy);
+//udregnigen sker i følgende rekkefølge
+//price skal være under budget derefter skal der ses om bogen er requiredReading
+Console.WriteLine("The shouldBuy variable represents a decision as to whether a book should be purchased.");
+Console.WriteLine("This happens when the price is within the budget and the book is part of the reading curriculum.");
+Console.WriteLine();
+Console.WriteLine("opg 8.4");
+int dice = 3;
+int Dice = 4;
+bool diceBig = true;
+bool dice3 = dice < Dice && diceBig;
+Console.WriteLine("is the dice bigger than 3? " + dice3);
+Console.WriteLine();
