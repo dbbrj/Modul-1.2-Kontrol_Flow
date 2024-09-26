@@ -1,0 +1,15 @@
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\bin\Debug\net8.0\Exercises_9.exe
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\bin\Debug\net8.0\Exercises_9.deps.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\bin\Debug\net8.0\Exercises_9.runtimeconfig.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\bin\Debug\net8.0\Exercises_9.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\bin\Debug\net8.0\Exercises_9.pdb
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\Exercises_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\Exercises_9.AssemblyInfoInputs.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\Exercises_9.AssemblyInfo.cs
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\Exercises_9.csproj.CoreCompileInputs.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\Exercises_9.sourcelink.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\Exercises_9.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\refint\Exercises_9.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\Exercises_9.pdb
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\Exercises_9.genruntimeconfig.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.2-Kontrol_Flow\Exercises_9\obj\Debug\net8.0\ref\Exercises_9.dll
