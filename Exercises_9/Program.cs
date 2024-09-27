@@ -14,11 +14,11 @@
 		uint month = 2;
 		switch (month) {
 			case 1:
-			Console.WriteLine("Janyary");
+			Console.WriteLine("January");
 			Console.WriteLine("has 31 days");
 			break;
 			case 2:
-			Console.WriteLine("Febuary");
+			Console.WriteLine("February");
 			Console.WriteLine("has 28 days");
 			break;
 			case 3:
@@ -67,36 +67,36 @@
 		}
 		Console.WriteLine();
 		Console.WriteLine("opg 9.5");
-		Months vacation = Months.Janyary;
+		Months vacation = Months.January;
 		if (vacation == Months.October) 
 		{
-			Console.WriteLine("Efterårsferie");
+			Console.WriteLine("Fall brake");
 		} 
 		else if (vacation == Months.December) 
 		{
-			Console.WriteLine("Juleferie") ;
+			Console.WriteLine("Christmas brake") ;
 		} 
 		else if (vacation == Months.April) 
 		{
-			Console.WriteLine("Påskeferie") ;
+			Console.WriteLine("Easter brake") ;
 		} 
 		else if (vacation == Months.July) 
 		{
-			Console.WriteLine("Sommerferie") ;
+			Console.WriteLine("Summer brake") ;
 		} 
 		else if (vacation == Months.August) 
 		{
-			Console.WriteLine("Sommerferie") ;
+			Console.WriteLine("Summer brake") ;
 		} 
 		else 
 		{
-			Console.WriteLine("Hårdt arbejde");
+			Console.WriteLine("Hard Work");
 		}
 	}
 }
 enum Months {
-			Janyary,
-			Febuary,
+			January,
+			February,
 			March,
 			April,
 			May,
